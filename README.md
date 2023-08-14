@@ -1,13 +1,17 @@
-## Hey 👋, This is Muhammad Rezky Sulihin
-[![Gmail Badge](https://img.shields.io/badge/-mrezkysulihin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mrezkysulihin@gmail.com)](mailto:mrezkysulihin@gmail.com) [![Github Badge](https://img.shields.io/badge/-mrezkys-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mrezkys/)](https://www.github.com/mrezkys/) <p align='left'>I am a new student in the department of informatics engineering. I love programming, I also love designing. I am a mobile developer and web developer, but in the future I plan to become and learn about machine learning engineer</p>
-Here are some ideas to get you started:
+## Hello, mrezys here 👋
+I’m a mobile developer that have a good design taste. Specialized in building beautiful ui.
 
-- 🔭 I’m currently working on my Portfolio Project
-- 🌱 I’m currently learning Dart and Kotlin
-- 📫 you can reach me at my social media  [IG : @mrezkys_](https://instagram.com/mrezkys_) , [Twitter : @mrezkysulihin_](https://twitter.com/mrezkysulihin_), and [Facebook](https://facebook.com/mrezkys12)
-- 😄 I'm natively speak Indonesian and fluently speak english
-- ⚡ Fun fact: I code when im bored with design, I design when im bored with code.
+
+[![Gmail Badge](https://img.shields.io/badge/-mrezkysulihin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mrezkysulihin@gmail.com)](mailto:mrezkysulihin@gmail.com) 
+
+## About me
+- 🎓 Learner at Apple Developer Academy @ILB and Informatics Engineering Student at Mataram University.
+- 📱 Focused on Mobile Development for both iOS with SwiftUI and Android with flutter.
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇩 I'm natively speak Indonesian and fluently speak English.
+- 🖼️ Fun fact: I really love design. Not only coding i also do illustration, ui/ux design, and graphic design. [See my portfolio](dribbble.com/mrezkys).
 - Im looking for a freelance job and Part-time job. If you have an opportunity for me, i'll be really happy. You can contact through my social media or email.
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mrezkys alt=mrezkys /> </p>
 

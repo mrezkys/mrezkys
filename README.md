@@ -7,6 +7,7 @@ I’m a mobile developer that have a good design taste. Specialized in building 
 ## About me
 - 🎓 Learner at Apple Developer Academy @ILB and Informatics Engineering Student at Mataram University.
 - 📱 Focused on Mobile Development for both iOS with SwiftUI and Android with flutter.
+- 📖 I write about Mobile Development in my [Medium Page](https://mrezkys.medium.com).
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇩 I'm natively speak Indonesian and fluently speak English.
 - 🖼️ Fun fact: I really love design. Not only coding i also do illustration, ui/ux design, and graphic design. [See my portfolio](dribbble.com/mrezkys).
 - Im looking for a freelance job and Part-time job. If you have an opportunity for me, i'll be really happy. You can contact through my social media or email.

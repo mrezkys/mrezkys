@@ -19,4 +19,7 @@ I’m a mobile developer that have a good design taste. Specialized in building 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mrezkys&show_icons=true&include_all_commits=true)](https://github.com/mrezkys/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrezkys&layout=compact)](https://github.com/mrezkys/github-readme-stats)
 
-
+<div align="left">
+  <img src="https://stardev.io/developers/mrezkys/badge/languages/country.svg" alt="stardev.io Country Badge" width="48%" />
+  <img src="https://stardev.io/developers/mrezkys/badge/languages/locality.svg" alt="stardev.io Locality Badge" width="48%" />
+</div>

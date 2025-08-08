@@ -12,6 +12,11 @@ I’m a mobile developer that have a good design taste. Specialized in building 
 - 🖼️ Fun fact: I really love design. Not only coding i also do illustration, ui/ux design, and graphic design. [See my portfolio](https://dribbble.com/mrezkys).
 - Im looking for a freelance job and Part-time job. If you have an opportunity for me, i'll be really happy. You can contact through my social media or email.
 
+## 📚 Curated Project Lists
+Here are my focused stacks with links to all related projects, articles, and published apps:
+
+- **[iOS Development](https://github.com/mrezkys/ios-dev)** – My work with SwiftUI, UIKit, Objective-C iOS development, and various iOS architectures. Includes GitHub repos, articles, and App Store apps.
+- **[Flutter Development](https://github.com/mrezkys/flutter-dev)** – My work with Flutter for Android & iOS, including starter templates and published apps.
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mrezkys alt=mrezkys /> </p>

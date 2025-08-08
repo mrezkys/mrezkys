@@ -10,7 +10,7 @@ I’m a mobile developer that have a good design taste. Specialized in building 
 - 📖 I write about Mobile Development in my [Medium Page](https://mrezkys.medium.com).
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇩 I'm natively speak Indonesian and fluently speak English.
 - 🖼️ Fun fact: I really love design. Not only coding i also do illustration, ui/ux design, and graphic design. [See my portfolio](https://dribbble.com/mrezkys).
-- Im looking for a freelance job and Part-time job. If you have an opportunity for me, i'll be really happy. You can contact through my social media or email.
+- I’m open to all kinds of work and collaboration opportunities. Feel free to reach out via my social media or email.
 
 ## 📚 Curated Project Lists
 Here are my focused stacks with links to all related projects, articles, and published apps:

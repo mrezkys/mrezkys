@@ -5,8 +5,8 @@ I’m a mobile developer that have a good design taste. Specialized in building 
 [![Gmail Badge](https://img.shields.io/badge/-mrezkysulihin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mrezkysulihin@gmail.com)](mailto:mrezkysulihin@gmail.com) 
 
 ## About me
-- 🎓 Learner at Apple Developer Academy @ILB and Informatics Engineering Student at Mataram University.
-- 📱 Focused on Mobile Development for both iOS with SwiftUI and Android with flutter.
+- 🎓 Informatics Engineering Student at Mataram University & Apple Developer Academy @ILB Graduate. 
+- 📱 Focused on Mobile Development for both iOS with Swift and Android with flutter.
 - 📖 I write about Mobile Development in my [Medium Page](https://mrezkys.medium.com).
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇩 I'm natively speak Indonesian and fluently speak English.
 - 🖼️ Fun fact: I really love design. Not only coding i also do illustration, ui/ux design, and graphic design. [See my portfolio](https://dribbble.com/mrezkys).

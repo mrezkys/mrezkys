@@ -17,6 +17,10 @@ Here are my focused stacks with links to all related projects, articles, and pub
 
 - **[iOS Development](https://github.com/mrezkys/ios-dev)** – My work with SwiftUI, UIKit, Objective-C iOS development, and various iOS architectures. Includes GitHub repos, articles, and App Store apps.
 - **[Flutter Development](https://github.com/mrezkys/flutter-dev)** – My work with Flutter for Android & iOS, including starter templates and published apps.
+<br>
+
+---
+
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mrezkys alt=mrezkys /> </p>
